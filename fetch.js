@@ -13,7 +13,7 @@ function addCommands(commands) {
 //  %r - Replaced by the url of the page you were
 //       on when the command was run.
 
-var DefaultCommand = 'g';
+var DefaultCommand = 'yand';
 
 addCommands(shortcuts);
 
