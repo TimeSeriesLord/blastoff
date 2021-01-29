@@ -86,7 +86,7 @@ function goOnLoad() {
   
   var cmdTable = document.createElement("table");
   for (var cmd in WScommands) {
-    cmdTable.innerHTML += '<tr title="' + WScommands[cmd][1] + '"><td class="trigger">' + cmd + '</td><td class="description">' + WScommands[cmd][0] + '</td></tr>';
+    cmdTable.innerHTML += '<tr title="' + WScommands[cmd][0] + '"><td class="trigger">' + WScommands[cmd][0] + '</td><td class="description">' + cmd + '</td></tr>';
   }
 
   document.getElementById('ocontent').appendChild(cmdTable);
