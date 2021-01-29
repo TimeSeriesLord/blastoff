@@ -73,8 +73,8 @@ bd: ['Bangs on DDG (omit the !)', 'https://duckduckgo.com/?q=!%s'],
 yn: ['bangs on YubNub', 'http://yubnub.org/parser/parse?command=%s'],
 shortmark: ['bang URL', 'https://shortmarks.com/s.php?q=%s'],
 
-bangsd: ['find Bangs on DDG', 'https://duckduckgo.com/bang?q=%s'],
-bangsyn: ['find bangs on YubNub', 'http://yubnub.org/parser/parse?command=ls+%s'],
+lsd: ['find Bangs on DDG', 'https://duckduckgo.com/bang?q=%s'],
+lsyn: ['find bangs on YubNub', 'http://yubnub.org/parser/parse?command=ls+%s'],
 
 
 
@@ -223,6 +223,7 @@ masto: ['socmed Mastodon tags', 'https://qoto.org/tags/%s'],
 minds: ['socmed minds', 'https://www.minds.com/search;q=%s'],
 mindsh: ['socmed minds hash', 'https://www.minds.com/search;q=%23%s'],
 nitterrss: ['socmed Nitter RSS', 'https://nitter.net/search/rss?f=tweets&q=%s'],
+reddit: ['socmed Reddit', 'https://www.reddit.com/search?q=%s'],
 subreddit: ['socmed Subreddit', 'http://www.reddit.com/r/%s/'],
 tw: ['socmed Twitter', 'http://yubnub.org/parser/parse?command=tw%20%s'],
 
@@ -245,7 +246,7 @@ revphone: ['telnos Phone Reverse Lookup', 'https://www.whitepages.com/search/Rev
 whitepages: ['telnos Whitepages', 'https://www.whitepages.com/search/FindPerson?utf8=%E2%9C%93&who=%s&where=%s'],
 
 alarmclock: ['time alarmclock (hotline)', 'http://www.clock2d.com/#'],
-tid: ['time Time.Is (hotline)', 'https://time.is/'],
+time: ['time Time.Is (hotline)', 'https://time.is/'],
 timer: ['time Minutes Timer', 'http://e.ggtimer.com/m/%s'],
 
 ceben: ['translate Glosbe cebuano to english', 'https://glosbe.com/ceb/en/%s'],
