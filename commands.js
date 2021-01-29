@@ -121,7 +121,7 @@ eig: ['encyclopedia info galactic', 'https://infogalactic.com/info/Special:Searc
 
 
 // ---[ F
-frink: ['Frink', 'https://futureboy.us/fsp/frink.fsp?fromVal=%s&toVal=%s'],
+frink: ['Frink (from;to)', 'https://futureboy.us/fsp/frink.fsp?fromVal=%s&toVal=%s'],
 foxbiz: ['Fox Business', 'http://www.foxbusiness.com/search.html?q=%s'],
 
 
@@ -183,6 +183,7 @@ upi: ['news UPI' , 'https://www.upi.com/search?s_l=articles&ss=%s'],
 // ---[ Q
 
 // ---[ R
+trulia: ['reality Trulia', 'http://www.trulia.com/for_sale/+%s+/popularity;d_sort/fsbo,resale_lt/map_v/'],
 zillow: ['realty Zillow', 'https://duckduckgo.com/?q=!zillow%20%s'],
 
 
