@@ -13,7 +13,18 @@ function addCommands(commands) {
 //  %r - Replaced by the url of the page you were
 //       on when the command was run.
 
-var DefaultCommand = 'd';
+// this gets a random item
+function random_item(items)
+{
+  
+return items[Math.floor(Math.random()*items.length)];
+     
+}
+
+var items = ["d", "gb", "mg", "mj", "q", "sp", "yp"];
+
+// var DefaultCommand = 'd';
+var DefaultCommand = random_item(items);
 
 addCommands(shortcuts);
 
