@@ -197,7 +197,6 @@ bpzip: ['relo Best Places zip code', 'https://www.bestplaces.net/find/zip.aspx?s
 
 // ---[ S
 
-
 ace: ['shop Ace Hardware', 'https://www.acehardware.com/search?query=%s'],
 autozone: ['shop AutoZone', 'https://duckduckgo.com/?q=!autozone%20%s'],
 az: ['shop Amazon', 'https://www.amazon.com/s?ie=UTF&index=blended&keywords=%s&tag=stusa-20'],
@@ -248,7 +247,9 @@ whitepages: ['telnos Whitepages', 'https://www.whitepages.com/search/FindPerson?
 
 alarmclock: ['time alarmclock (hotline)', 'http://www.clock2d.com/#'],
 time: ['time Time.Is (hotline)', 'https://time.is/'],
-timer: ['time Minutes Timer', 'http://e.ggtimer.com/m/%s'],
+timer: ['time Timer (type n no space one of h,m,s)', 'http://e.ggtimer.com/%s'],
+
+
 
 ceben: ['translate Glosbe cebuano to english', 'https://glosbe.com/ceb/en/%s'],
 enceb: ['translate Glosbe english to cebuano', 'https://glosbe.com/en/ceb/%s'],
