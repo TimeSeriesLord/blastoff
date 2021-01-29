@@ -97,19 +97,10 @@ vyp: ['Yippy', 'https://yippy.com/ysa/cgi-bin/query-meta?v%3Asources=yippy-video
 
 
 
-// ---[ Toki
-
-toki: ['Toki', 'https://search.anonymize.com/?category_general=on&time_range=&language=en-US&q=%s'],
-
-itoki: ['Toki', 'https://toki.com/?categories=images&language=en-US&q=%s'],
-vtoki: ['Toki', 'https://toki.com/?categories=videos&language=en-US&q=%s'],
-ntoki: ['Toki', 'https://toki.com/?categories=news&language=en-US&q=%s'],
-sotoki: ['Toki', 'https://toki.com/categories=social+media&language=en-US&q=%s'],
-ftoki: ['Toki', 'https://toki.com/categories=files&language=en-US&q=%s'],
 
 
-/* 
 -------------------------------------
+/* 
 Site Specific Search URLs
 ~~~~~~~~~~~~~~~~~~~~~~ 
 */
@@ -493,7 +484,6 @@ sams: ['Sams Club', 'http://yubnub.org/parser/parse?command=sams%20%s'],
 ebay: ['ebay', 'http://yubnub.org/parser/parse?command=ebay%20%s'],
 tvan: ['Vancouver Traffic', 'http://yubnub.org/parser/parse?command=gvtm'],
 ynus: ['Yubnub Url Sub', 'http://yubnub.org/parser/parse?command=url%20%s'],
-drudge: ['Drudge Report', 'http://yubnub.org/parser/parse?command=dr'],
 tw: ['Twitter', 'http://yubnub.org/parser/parse?command=tw%20%s'],
 
 
@@ -504,9 +494,6 @@ Cheatsheets
 */
 
 apt: ['Apt Cheat Sheet', 'https://www.cyberciti.biz/tips/linux-debian-package-management-cheat-sheet.html'],
-unicode: ['Unicode Cheat Sheet', 'https://unicode-table.com/en/#basic-latin'],
-
-
 
 
 
@@ -529,6 +516,8 @@ GOOGLE BRANDS
 //blogger
 bloggerpost: ['Post on Blogger', 'http://www.blogger.com/post-create.g?blogID=%s'],
 bloggerstats: ['Blogger Stats', 'http://www.blogger.com/blogger.g?blogID=%s#overviewstats'],
+
+
 
 yt: ['YouTube', 'http://www.youtube.com/results?search_query=%s'],
 htyt: ['YouTube', 'https://www.youtube.com/hashtag/%s'],
@@ -594,9 +583,6 @@ books2g: ['Google Books 1500-1869', 'https://www.google.com/search?hl=en&tbo=d&t
 driveg: ['Google Drive', 'https://drive.google.com/#search/%s'],
 gmail: ['Google mail', 'https://mail.google.com/mail/u/0/#search/%s'],
 ptransg: ['Google Translate', 'https://translate.google.com/translate?hl=en&sl=ru&tl=en&u=%s'],
-
-bposts: ['Blogger Posts', 'https://www.blogger.com/blog/posts/2938080886449362778?pli=1&q=%s'],
-
 
 }
 
