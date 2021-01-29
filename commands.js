@@ -49,31 +49,29 @@ msc: ['⧌ music Swisscows', 'https://swisscows.com/music?query=%s&region=en-US&
 // ---[ NEWS
 
 ndp: ['news dogpile', 'http://results.dogpile.com/search/news?q=%s'],
-nmj: ['news Mojeek', 'https://www.mojeek.com/search?q=%s&fmt=news'],
-nq: ['news Qwant', 'https://www.qwant.com/?t=news&q=%s'],
-nsx: ['news Searx', 'https://searx.bar/?categories=news&language=en-US&q=%s'],
+nmj: ['⧌ news Mojeek', 'https://www.mojeek.com/search?q=%s&fmt=news'],
+nq: ['⧌ news Qwant', 'https://www.qwant.com/?t=news&q=%s'],
+nsx: ['⧌ news Searx', 'https://searx.bar/?categories=news&language=en-US&q=%s'],
 ny: ['news Yandex', 'https://yandex.com/news/search?text=%s'],
 ngab: ['news Gab (hotlink)', 'https://gab.com/news'],
 
 
 // ---[ VIDEO
-viddp: ['dogpile video', 'http://results.dogpile.com/search/video?q=%s'],
-vidd: ['DDG video', 'https://duckduckgo.com/?iax=videos&ia=videos&q=%s'],
-vsc: ['Swisscows vid', 'https://swisscows.com/video?query=%s&region=en-US&uiLanguage=en'],
-vsx: ['Searx.bar', 'https://searx.bar/?categories=videos&language=en-US&q=%s'],
-vy: ['Yandex Video', 'https://yandex.com/video/search?text=%s'],
-vyp: ['Yippy', 'https://yippy.com/ysa/cgi-bin/query-meta?v%3Asources=yippy-video&v%3Aproject=yippy-com-images&query=%s'],
+viddp: ['video dogpile', 'http://results.dogpile.com/search/video?q=%s'],
+vidd: ['video DDG', 'https://duckduckgo.com/?iax=videos&ia=videos&q=%s'],
+vsc: ['⧌  video Swisscows', 'https://swisscows.com/video?query=%s&region=en-US&uiLanguage=en'],
+vsx: ['⧌  video Searx.bar', 'https://searx.bar/?categories=videos&language=en-US&q=%s'],
+vy: [' video Yandex', 'https://yandex.com/video/search?text=%s'],
+vyp: ['⧌ video Yippy', 'https://yippy.com/ysa/cgi-bin/query-meta?v%3Asources=yippy-video&v%3Aproject=yippy-com-images&query=%s'],
 
 
 
-
-// ---[ IP Addy
-ipaddy: ['IP Address', 'https://duckduckgo.com/?q=my+ip+address&ia=answer'],
 
 
 // ---[ SEARCH ENGINE BANGS
 bd: ['Bangs on DDG (omit the !)', 'https://duckduckgo.com/?q=!%s'],
 yn: ['bangs on YubNub', 'http://yubnub.org/parser/parse?command=%s'],
+shortmark: ['bang URL', 'https://shortmarks.com/s.php?q=%s'],
 
 bangsd: ['find Bangs on DDG', 'https://duckduckgo.com/bang?q=%s'],
 bangsyn: ['find bangs on YubNub', 'http://yubnub.org/parser/parse?command=ls+%s'],
@@ -101,6 +99,12 @@ beeradvo: ['beer BeerAdvocate', 'https://duckduckgo.com/?q=!beer%20%s'],
 dilbert: ['cartoons Dilbert', 'https://duckduckgo.com/?q=!dilbert%20%s'],
 bcdb: ['cartoons The Big Cartoon Database', 'https://duckduckgo.com/?q=!bcdb%20%s'],
 
+apt: ['cheat sheet Apt', 'https://www.cyberciti.biz/tips/linux-debian-package-management-cheat-sheet.html'],
+tmux: ['cheat sheet Tmux', 'https://tmuxcheatsheet.com'],
+unicode: ['cheat sheet Unicode', 'https://unicode-table.com/en/#basic-latin'],
+
+
+ucode: ['computing Unicode' , 'https://unicode-table.com/en/search/?q=%s'],
 stackoverflow: ['computing Stackoverflow', 'http://stackoverflow.com/search?q=%s'],
 
 // ---[ D
@@ -132,6 +136,7 @@ flkr: ['images Flickr Search', 'http://flickr.com/search/?q=%s'],
 unsplash: ['images Unsplash', 'https://unsplash.com/s/photos/%s'],
 
 wayback: ['internet Archive.org', 'http://web.archive.org/web/*/%s'],
+ipaddy: ['internet MY IP Address', 'https://duckduckgo.com/?q=my+ip+address&ia=answer'],
 
 ircchannels: ['irc Netsplit Channels', 'https://netsplit.de/channels/?chat=%s'],
 
@@ -230,7 +235,6 @@ crunchyroll: ['stream CrunchyRoll', 'https://duckduckgo.com/?q=!crunchyroll%20%s
 pluto: ['stream Pluto TV', 'https://www.pluto.tv/'],
 xumo: ['stream Xumo TV', 'https://www.xumo.tv/'],
 
-sms: ['URL', 'https://shortmarks.com/s.php?q=%s'],
 simsites: ['Similar Sites', 'http://www.similarsites.com/site/%s'],
 
 
@@ -254,7 +258,6 @@ vantr: ['traffic Vancouver', 'http://yubnub.org/parser/parse?command=gvtm'],
 
 // ---[ U
 
-ucode: ['Unicode' , 'https://unicode-table.com/en/search/?q=%s'],
 
 
 
@@ -292,9 +295,6 @@ Cheatsheets
 ~~~~~~~~~~~~~~~~~~~~~~ 
 */
 
-apt: ['cheat sheet Apt', 'https://www.cyberciti.biz/tips/linux-debian-package-management-cheat-sheet.html'],
-tmux: ['cheat sheet Tmux', 'https://tmuxcheatsheet.com'],
-unicode: ['cheat sheet Unicode', 'https://unicode-table.com/en/#basic-latin'],
 
 // XXX
 
