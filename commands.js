@@ -197,7 +197,7 @@ bpzip: ['relo Best Places zip code', 'https://www.bestplaces.net/find/zip.aspx?s
 // ---[ S
 
 
-ace: ['shop Ace Hardware', 'https://duckduckgo.com/?q=!ace%20%s'],
+ace: ['shop Ace Hardware', 'https://www.acehardware.com/search?query=%s'],
 autozone: ['shop AutoZone', 'https://duckduckgo.com/?q=!autozone%20%s'],
 az: ['shop Amazon', 'https://www.amazon.com/s?ie=UTF&index=blended&keywords=%s&tag=stusa-20'],
 // azusa: ['Amazon', 'https://www.amazon.com/s?ie=UTF&index=blended&keywords=%22made%20in%20usa%22%20%s&tag=stusa-20'],
@@ -207,7 +207,7 @@ bevmo: ['shop BevMo', 'http://shop.bevmo.com/search?w=%s'],
 bestbuy: ['shop BestBuy', 'https://duckduckgo.com/?q=!bestbuy%20%s'],
 bhpv: ['shop BH Photo Video', 'https://duckduckgo.com/?q=!bh%20%s'],
 bnbooks: ['shop Barnes & Noble', 'https://duckduckgo.com/?q=!barnesandnoble%20%s'],
-costco: ['shop Costco', 'https://duckduckgo.com/?q=!costco%20%s'],
+costco: ['shop Costco', 'https://www.costco.com/CatalogSearch?dept=All&keyword=%s'],
 cantire: ['shop Canadian Tire', 'https://duckduckgo.com/?q=!canadiantire%20%s'],
 sams: ['shop Sams Club', 'http://yubnub.org/parser/parse?command=sams%20%s'],
 ebay: ['shop ebay', 'http://yubnub.org/parser/parse?command=ebay%20%s'],
