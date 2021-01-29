@@ -13,7 +13,7 @@ function addCommands(commands) {
 //  %r - Replaced by the url of the page you were
 //       on when the command was run.
 
-var DefaultCommand = 'yand';
+var DefaultCommand = 'd';
 
 addCommands(shortcuts);
 
@@ -89,7 +89,7 @@ function goOnLoad() {
     cmdTable.innerHTML += '<tr title="' + WScommands[cmd][1] + '"><td class="trigger">' + cmd + '</td><td class="description">' + WScommands[cmd][0] + '</td></tr>';
   }
 
-  document.getElementById('content').appendChild(cmdTable);
+  document.getElementById('ocontent').appendChild(cmdTable);
 }
 
 function initScreen() { setTimeout("window.scrollTo(0,1);", 100); }

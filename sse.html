@@ -1,0 +1,130 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Blastoff!</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+
+<!--  STYLESHEETS - PERMANENT
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+
+<!-- CSS file -->
+<link rel="stylesheet" href="sse.css">
+<link rel="stylesheet" href="easy-autocomplete.min.css">
+
+<!-- Additional CSS Themes file - not required-->
+<link rel="stylesheet" href="easy-autocomplete.themes.min.css">
+
+
+
+<!--  **** YOUR DATA FILES **** 
+~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+
+
+
+<script type="text/javascript" src="commands.js"></script>
+<!-- <script type="text/javascript" src="suggestions.js"></script> ->
+
+
+
+<!--  JS libraries - PERMANENT
+~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+<script src="jquery.easy-autocomplete.min.js"></script>
+
+<script type="text/javascript" src="fetch.js"></script>
+
+<!--  
+~~~~~~~~~~~~~~~~~~~~~~~
+TOUCH NOTHING BELOW
+~~~~~~~~~~~~~~~~~~~~~~~ -->
+
+<!--  Fetch Script Embed
+~~~~~~~~~~~~~~~~~~~~ -->
+<!--
+
+<script type="text/javascript">
+/* <![CDATA[ */
+
+/* ]]> */
+</script>
+
+-->
+</head>
+
+<body onload="goOnLoad();">
+
+<!--  OVERLAY HELP
+~~~~~~~~~~~~~~~~~~~~~~~ -->
+
+
+<div id="myNav" class="overlay">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <div class="overlay-content">
+
+		<div class="section group">
+			<div class="col span_1_of_3">
+			<ul>
+			<li>Type your keywords after the engine selection code.</li>
+			<li>For driving directions, separate the addresses with a semi-colon (;).</li>	
+			<li>For Google Date Range, separate the search string, and the two dates (mm/dd/yyyy) each with a semi-colon (;).</li>	
+			</ul>	
+			</div>
+			<div class="col span_1_of_3">
+			<ul>
+			<li>All Yubnub and Duck Duck Go bangs work</li>
+			<li>Look for more help soon.</li>
+			</ul>	
+			</div>
+			<div class="col span_1_of_3">
+			<ul>
+			</ul>		
+			</div>
+		</div>  
+		
+		 <div id="ocontent">
+      </div>
+
+		
+
+  
+</div> <!-- overlay-content -->
+ </div> <!-- my nav -->
+
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; Help</span>
+  
+<script>
+function openNav() {
+    document.getElementById("myNav").style.width = "100%";
+}
+
+function closeNav() {
+    document.getElementById("myNav").style.width = "0%";
+}
+</script>
+
+
+<!--  SEARCH FORM
+~~~~~~~~~~~~~~~~~~~~~~~ -->
+<div id="centered">
+
+<div id="search-box">
+<div class="field">
+<form action="" method="get" name="input_box" id="search-form">
+	<input type="text" name="fetch" id="search-text" placeholder="Engine and Terms ..." maxlength="100" />
+	<button id="search-button" type="submit">                     
+	<span>Search</span>
+	</button>
+</form>
+</div>
+</div>
+<!--  EMBED SCRIPT SEARCH FORM AUTOCOMPLETE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+
+<script>
+</script>
+
+</div>
+</body>
+</html>
