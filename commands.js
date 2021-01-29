@@ -323,7 +323,9 @@ wb: ['weather Bing', 'https://duckduckgo.com/?q=!bw%20%s'],
 Google Site Search
 ~~~~~~~~~~~~~~~~~~~~~~ 
 */
-amg: ['Allmusic in Google' ,'https://www.google.com/?gws_rd=ssl#q=site:allmusic.com+%s'],
+
+
+amg: ['Allmusic in Google' ,'https://www.google.com/search?q=allmusic.com%20%s'],
 ytg: ['YouTube in Google', 'https://www.google.com/search?q=%22%s%22+site:youtube.com&tbm=vid&tbs=qdr:%s'],
 
 
