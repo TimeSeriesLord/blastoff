@@ -3,7 +3,7 @@ var WScommands = new Object;
 function addCommands(commands) {
   for (var cmd in commands) {
     WScommands[cmd.toLowerCase()] = 
-    new Array(commands[cmd][0], commands[cmd][1]);
+    new Array(commands[cmd][0], commands[cmd][1], commands[cmd][2]);
   }
 }
 
@@ -14,11 +14,8 @@ function addCommands(commands) {
 //       on when the command was run.
 
 // this gets a random item
-function random_item(items)
-{
-  
-return items[Math.floor(Math.random()*items.length)];
-     
+function random_item(items) {
+	return items[Math.floor(Math.random()*items.length)];
 }
 
 var items = ["d", "gb", "mg", "mj", "q", "sp", "yp"];
@@ -26,10 +23,13 @@ var items = ["d", "gb", "mg", "mj", "q", "sp", "yp"];
 // var DefaultCommand = 'd';
 var DefaultCommand = random_item(items);
 
-addCommands(shortcuts);
+// add the hotwords
+
+addCommands(hotwords);
 
 
-//This function returns parameter values from the url of this page.
+
+// returns parameter values from the url of this page.
 function gup() {
   var name = ("fetch").replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
   var results = new RegExp("[\\?&]"+name+"=([^&#]*)").exec(window.location.href);
@@ -37,6 +37,8 @@ function gup() {
   if (results === null) return "";
   else return results[1];
 }
+
+// process the command
 
 function processCommand(command) {
   var words = command.replace(/%20/g, " ").replace(/\+/g, " ").split(' ');
@@ -97,10 +99,30 @@ function goOnLoad() {
   
   var cmdTable = document.createElement("table");
   for (var cmd in WScommands) {
-    cmdTable.innerHTML += '<tr title="' + WScommands[cmd][0] + '"><td class="trigger">' + WScommands[cmd][0] + '</td><td class="description">' + cmd + '</td></tr>';
+    cmdTable.innerHTML += '<tr title="' + WScommands[cmd][0] + '"><td class="trigger">' + WScommands[cmd][0] + '</td><td class="description">' + cmd + '</td><td class="description">' + WScommands[cmd][2] + '</td></tr>';
   }
 
   document.getElementById('ocontent').appendChild(cmdTable);
 }
 
 function initScreen() { setTimeout("window.scrollTo(0,1);", 100); }
+
+
+
+
+
+// Function to Get the Commands that match the filtering
+
+function filterIt (SiteType) {
+
+	for (var k in WScommands) {
+		if (WScommands[k][2] == SiteType) {
+			console.log(WScommands[k][0] + " > " + k);
+		}
+	}
+}
+
+
+// index = Cats.findIndex(cat => cat === "sites");
+// this works and is what I will use
+// filterIt(Cats[Cats.findIndex(cat => cat === x)]);
