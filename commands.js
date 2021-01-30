@@ -49,7 +49,7 @@ msc: ['⧌ Swisscows music', 'https://swisscows.com/music?query=%s&region=en-US&
 // ---[ NEWS
 
 ndp: ['Dogpile', 'http://results.dogpile.com/search/news?q=%s','news'],
-nmj: ['⧌ Mojeek news', 'https://www.mojeek.com/search?q=%s&fmt=news','news'],
+nmj: ['⧌ Mojeek news', 'https://www.mojeek.com/search?fmt=news&q=%s','news'],
 nq: ['⧌ news Qwant news', 'https://www.qwant.com/?t=news&q=%s','news'],
 nsx: ['⧌ news Searx news', 'https://searx.bar/?categories=news&language=en-US&q=%s','news'],
 ny: ['Yandex news', 'https://yandex.com/news/search?text=%s','news'],
@@ -119,11 +119,16 @@ bpzip: ['Best Places zip code (enter state abb)', 'https://www.bestplaces.net/fi
 // ---[ C
 cantire: ['Canadian Tire', 'https://duckduckgo.com/?q=!canadiantire%20%s','shop'],
 ceben: ['Glosbe cebuano to english', 'https://glosbe.com/ceb/en/%s','translate'],
+cl4sale: ['Craigslist For Sale (city;keywords)', 'http://%s.craigslist.org/search/sss?query=%s','shop'], 
+clapts: ['Craigslist Apartments (city;keywords)', 'http://%s.craigslist.org/search/aap?query=%s','apartments'], 
+clcom: ['Craigslist Community (city;keywords)', 'http://%s.craigslist.org/search/ccc?query=%s','local'], 
+cljobs: ['Craigslist Jobs (city;job type)', 'http://%s.craigslist.org/search/jjj?query=%s','jobs'], 
+clcars: ['Craigslist Cars & Trucks (city;keywords)', 'http://%s.craigslist.org/search/cta?query=%s','cars'], 
+clrooms: ['Craigslist Room Rentals (city;keywords)', 'http://%s.craigslist.org/search/roo?query=%s','apartments'], 
 costco: ['Costco', 'https://www.costco.com/CatalogSearch?dept=All&keyword=%s','shop'],
 couchtuner: ['stream Couchtuner', 'https://duckduckgo.com/?q=!tune%20%s','streams'],
 chromex: ['Chrome Extensions', 'https://chrome.google.com/webstore/search/%s&_category=extensions','software'],
-crunchyroll: ['stream CrunchyRoll', 'https://duckduckgo.com/?q=!crunchyroll%20%s','anime streams'],
-
+crunchyroll: ['stream CrunchyRoll', 'https://www.crunchyroll.com/search?from=&q=%s','anime streams'],
 
 // ---[ D
 da: ['deviantART', 'http://browse.deviantart.com/?q=%s','art'],
@@ -135,6 +140,7 @@ dpsych: ['Psychology Dictionary','https://psychologydictionary.org/%s/','words']
 ebay: ['ebay', 'http://yubnub.org/parser/parse?command=ebay%20%s','shop'],
 egab: ['Gab explore (hotlink)', 'https://gab.com/popular','socmed'],
 enceb: ['Glosbe english to cebuano', 'https://glosbe.com/en/ceb/%s','translate'],
+etsy: ['Etsy', 'https://www.etsy.com/search?q=%s&search_type=tag_title','shop'],
 
 // ---[ F
 flkr: ['Flickr Search', 'http://flickr.com/search/?q=%s','images'],
@@ -189,7 +195,7 @@ myip: ['MY IP Address', 'https://duckduckgo.com/?q=my+ip+address&ia=answer','int
 
 
 // ---[ N 
-newsnow: ['news New Now UK', 'http://www.newsnow.co.uk/ajax/search-redir?q=%s'],
+newsnow: ['New Now UK', 'http://www.newsnow.co.uk/ajax/search-redir?q=%s','news'],
 nitter: ['Nitter (RSS feeds of Twitter) ', 'https://nitter.net/search/rss?f=tweets&q=%s','socmed'],
 
 
