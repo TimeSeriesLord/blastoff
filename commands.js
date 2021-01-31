@@ -267,6 +267,7 @@ whitepages: ['Whitepages', 'https://www.whitepages.com/search/FindPerson?utf8=%E
 wikihow: ['Wikihow', 'https://www.wikihow.com/wikiHowTo?search=%s','DIY'],
 wikip: ['Wikipedia', 'http://en.wikipedia.org/wiki/Special:Search?search=%s&go=Go','encyclopedia'],
 wikipran: ['Wikipedia', 'http://en.wikipedia.org/wiki/Special:Random','encyclopedia'],
+wikid: ['Wiktionary', 'https://en.wiktionary.org/wiki/%s','words'],
 
 // --- [ X
 xumo: ['Xumo TV', 'https://www.xumo.tv/','streaming'],
