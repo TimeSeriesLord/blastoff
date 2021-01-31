@@ -114,7 +114,7 @@ bpstate: ['Best Places state (enter state abb)', 'https://www.bestplaces.net/fin
 bpmetro: ['Best Places metro (enter state abb)', 'https://www.bestplaces.net/find/metro.aspx?st=%s','relo'],
 bpcn: ['Best Places county (enter state abb)', 'https://www.bestplaces.net/find/county.aspx?counties=%s','relo'],
 bpzip: ['Best Places zip code (enter state abb)', 'https://www.bestplaces.net/find/zip.aspx?st=%s','relo'],
-
+ntbg: ['Bible Gateway', 'https://www.biblegateway.com/quicksearch/?version=NMB%3BRGT%3BESV&quicksearch=%s','theology'],
 
 // ---[ C
 cantire: ['Canadian Tire', 'https://duckduckgo.com/?q=!canadiantire%20%s','shop'],
@@ -268,6 +268,7 @@ wikihow: ['Wikihow', 'https://www.wikihow.com/wikiHowTo?search=%s','DIY'],
 wikip: ['Wikipedia', 'http://en.wikipedia.org/wiki/Special:Search?search=%s&go=Go','encyclopedia'],
 wikipran: ['Wikipedia', 'http://en.wikipedia.org/wiki/Special:Random','encyclopedia'],
 wikid: ['Wiktionary', 'https://en.wiktionary.org/wiki/%s','words'],
+
 
 // --- [ X
 xumo: ['Xumo TV', 'https://www.xumo.tv/','streaming'],
