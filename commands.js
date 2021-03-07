@@ -138,7 +138,7 @@ dpsych: ['Psychology Dictionary','https://psychologydictionary.org/%s/','words']
 
 // ---[ E
 ebay: ['ebay', 'http://yubnub.org/parser/parse?command=ebay%20%s','shop'],
-egab: ['Gab explore (hotlink)', 'https://gab.com/popular','socmed'],
+egab: ['Gab explore (hotlink)', 'https://gab.com/explore','socmed'],
 enceb: ['Glosbe english to cebuano', 'https://glosbe.com/en/ceb/%s','translate'],
 etsy: ['Etsy', 'https://www.etsy.com/search?q=%s&search_type=tag_title','shop'],
 
