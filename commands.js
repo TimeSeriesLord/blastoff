@@ -190,7 +190,9 @@ memegen: ['Imgflip Meme Generator', 'https://imgflip.com/memegenerator','memes']
 minds: ['minds', 'https://www.minds.com/search;q=%s','socmed'],
 mindsh: ['minds hash', 'https://www.minds.com/search;q=%23%s','socmed'],
 myip: ['MY IP Address', 'https://duckduckgo.com/?q=my+ip+address&ia=answer','internet'],
+musicb: ['Music Brainz', 'https://musicbrainz.org/search?query=%s&type=artist&method=indexed','music'],
 
+  
 
 
 
