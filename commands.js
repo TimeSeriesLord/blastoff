@@ -530,7 +530,15 @@ sbtbgg: ['Survival Beyond the Basics', 'https://gab.com/groups/783','Gab Groups'
 tagg: ['The Anglosphere', 'https://gab.com/groups/380','Gab Groups'],
 eucwgg: ['The ComingEEEE, ARRIVED, European Civil War(s)', 'https://gab.com/groups/187','Gab Groups'],
   
-
+tdngg: ['The Daily News', 'https://gab.com/groups/2483','Gab Groups'],
+tfsgg: ['The Far Side', 'https://gab.com/groups/5788','Gab Groups'],
+tppgg: ['The Patriot Party', 'https://gab.com/groups/5846','Gab Groups'],
+tktgg: ['The Skeptic Tank', 'https://gab.com/groups/5194','Gab Groups'],
+ttsgg: ['Tool Talk Saturday', 'https://gab.com/groups/2287','Gab Groups'],
+tlgg: ['Traditional Lifestyle', 'https://gab.com/groups/163','Gab Groups'],
+tlwgg: ['Travel the World', 'https://gab.com/groups/5788s','Gab Groups'],
+t2020gg: ['Trump 2020', 'https://gab.com/groups/981','Gab Groups'],
+wsbgg: ['Wall Street Bets', 'https://gab.com/groups/4204','Gab Groups'],
 
 gg: ['Gab Groups Timeline', 'https://gab.com/groups','Gab Groups']
 
