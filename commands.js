@@ -96,6 +96,14 @@ autozone: ['AutoZone', 'https://duckduckgo.com/?q=!autozone%20%s','shop'],
 az: ['Amazon', 'https://www.amazon.com/s?ie=UTF&index=blended&keywords=%s&tag=stusa-20','shop'],
 // azusa: ['Amazon', 'https://www.amazon.com/s?ie=UTF&index=blended&keywords=%22made%20in%20usa%22%20%s&tag=stusa-20','shop'],
 azusa: ['Amazon Made in USA', 'https://www.amazon.com/s?k=made+in+usa+%s','shop'],
+azcan: ['Amazon Made in USA', 'https://www.amazon.com/s?k=made+in+canada+%s','shop'],
+azau: ['Amazon Made in USA', 'https://www.amazon.com/s?k=made+in+australia+%s','shop'],  
+aznz: ['Amazon Made in USA', 'https://www.amazon.com/s?k=made+in+new+zealand+%s','shop'],  
+azuk: ['Amazon Made in USA', 'https://www.amazon.com/s?k=made+in+united+kingdom+%s','shop'],    
+azjp: ['Amazon Made in USA', 'https://www.amazon.com/s?k=made+in+japan+%s','shop'],    
+aztw: ['Amazon Made in USA', 'https://www.amazon.com/s?k=made+in+taiwan+%s','shop'],    
+azkw: ['Amazon Made in USA', 'https://www.amazon.com/s?k=made+in+korea+%s','shop'],    
+
 azvid: ['Amazon Prime Video', 'https://duckduckgo.com/?q=!primevideo%20%s','shop'],
 
 
@@ -446,8 +454,25 @@ humorgg: ['? Humor', 'https://gab.com/groups/867','Gab Groups'],
 pol2gg: ['? politics', 'https://gab.com/groups/839','Gab Groups'],
 tcgg: ['⚠Tucker Highlights⚠', 'https://gab.com/groups/454','Gab Groups'],
 
+eegg: ['Effortless English', 'https://gab.com/groups/','Gab Groups'],
+emgg: ['Election Meltdowns', 'https://gab.com/groups/5319','Gab Groups'],
+animegg: ['Ev/a/ngelion 3.0 + 1.0', 'https://gab.com/groups/931','Gab Groups'],
+foodiegg: ['Food, Cooking, Recipes', 'https://gab.com/groups/822','Gab Groups'],
+fnaltgg: ['FOX News Alts', 'https://gab.com/groups/5703','Gab Groups'],
+fossgg: ['FOSS', 'https://gab.com/groups/5213','Gab Groups'],
+fsgg: ['Free Speech', 'https://gab.com/groups/354','Gab Groups'],
+gfagg: ['Gab Fan Art', 'https://gab.com/groups/5818','Gab Groups'],
+gswgg: ['Gab Sports World', 'https://gab.com/groups/2076','Gab Groups'],
+gaminggg: ['Gaming', 'https://gab.com/groups/289','Gab Groups'],
+gapgg: ['GAP Great Awakening Patriots', 'https://gab.com/groups/1598','Gab Groups'],
+gardeninggg: ['Gardening', 'https://gab.com/groups/18','Gab Groups'],
 
-
+gtbrgg: ['Ghost Towns and Backroads', 'https://gab.com/groups/5701','Gab Groups'],
+gmakgg: ['Grandmas Kitchen', 'https://gab.com/groups/5722','Gab Groups'],
+goggg: ['Guns of Gab', 'https://gab.com/groups/157','Gab Groups'],
+hccpdtgg: ['Hardcore COnservative Patriots for Donald Trump', 'https://gab.com/groups/595','Gab Groups'],
+healthgg: ['', 'https://gab.com/groups/39','Gab Groups'],
+hbgg: ['History Buffs', 'https://gab.com/groups/625','Gab Groups'],
 
 
 
