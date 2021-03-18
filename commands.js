@@ -390,6 +390,70 @@ transg: ['Google Translate', 'https://translate.google.com/#%s/%s/%s','translate
 daterg: ['Google with Date Range', 'https://www.google.com/search?q=%s&source=lnt&tbs=cdr:1,cd_min:%s,cd_max:%s&tbm=','all'],
 
 usyn: ['Yubnub Url Sub', 'http://yubnub.org/parser/parse?command=url%20%s','Yubnub'],
+  
+  
+
+/* 
+-------------------------------------
+Gab Groups
+~~~~~~~~~~~~~~~~~~~~~~ 
+*/  
+  
+  z14gg: ['14 Words', 'https://gab.com/groups/133'],
+z80gg: ['1980s Nostalgia', 'https://gab.com/groups/2169'],
+z8090gg: ['1980s/1990s Music', 'https://gab.com/groups/606'],
+aestheticsgg: ['Aesthetics', 'https://gab.com/groups/4992'],
+aggg: ['Anything Goes', 'https://gab.com/groups/539'],
+affgg: ['Armed for Freedom', 'https://gab.com/groups/5839'],
+akagg: ['All Kinds of Animals!!!!', 'https://gab.com/groups/778'],
+artgg: ['art', 'https://gab.com/groups/60'],
+artbgg: ['Artists Block', 'https://gab.com/groups/723'],
+atgg: ['Alt Tech: Alternative Technology', 'https://gab.com/groups/377'],
+augg: ['Australia', 'https://gab.com/groups/137'],
+bsgg: ['', 'https://gab.com/groups/190'],
+boggg: ['Businesses of Gab', 'https://gab.com/groups/4636'],
+boomergg: ['Boomer music', 'https://gab.com/groups/78'],
+bnewsgg: ['Breaking News', 'https://gab.com/groups/8882'],
+brexitgg: ['#Brexit', 'https://gab.com/groups/730'],
+britfamgg: ['#BritFam', 'https://gab.com/groups/21'],
+bthgg: ['Bitcoin', 'https://gab.com/groups/755'],
+bth2gg: ['/g/bitcoin', 'https://gab.com/groups/1898'],
+buyusagg: ['Buy Made in America', 'https://gab.com/groups/6422'],
+cangg: ['Canada News', 'https://gab.com/groups/976'],
+catsgg: ['Cats', 'https://gab.com/groups/150'],
+ccgg: ['', 'https://gab.com/groups/158'],
+cegg: ['Carnivore Eating', 'https://gab.com/groups/11'],
+ckgg: ['Carnivore & Keto', 'https://gab.com/groups/1870'],
+cememesgg: ['Christian memes', 'https://gab.com/groups/4768'],
+cmusicgg: ['', 'https://gab.com/groups/1882'],
+cnewsgg: ['', 'https://gab.com/groups/514'],
+coa: ['', 'https://gab.com/groups/3841'],
+comixgg: ['', 'https://gab.com/groups/1017'],
+cookgg: ['', 'https://gab.com/groups/547'],
+cowgg: ['', 'https://gab.com/groups/2492'],
+craftsgg: ['', 'https://gab.com/groups/23'],
+cvidsgg: ['', 'https://gab.com/groups/2376'],
+cw2gg: ['Clown World 2: Honklers Revenge', 'https://gab.com/groups/3992'],
+dborgg: ['Defenders of the Bill of Rights', 'https://gab.com/groups/5849'],
+dloggg: ['', 'https://gab.com/groups/317'],
+doggosgg: ['', 'https://gab.com/groups/116'],
+dongg: ['/g/The_Donald', 'https://gab.com/groups/22'],
+dtigg: ['Destroying the Illusion', 'https://gab.com/groups/5167'],
+eohgg: ['Erasure of History', 'https://gab.com/groups/4629'],
+fitgg: ['/fit/', 'https://gab.com/groups/4971'],
+gmgg: ['Gab Marketplace', 'https://gab.com/groups/5724'],
+humorgg: ['? Humor', 'https://gab.com/groups/867'],
+pol2gg: ['? politics', 'https://gab.com/groups/839'],
+tcgg: ['⚠Tucker Highlights⚠', 'https://gab.com/groups/454'],
+
+
+
+
+
+
+
+
+gg: ['Gab Groups Timeline', 'https://gab.com/groups']
 
 }
 
