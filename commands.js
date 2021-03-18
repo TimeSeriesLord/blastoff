@@ -514,6 +514,22 @@ pcegg: ['Programming Computers Electronics', 'https://gab.com/groups/664','Gab G
 ramgg: ['RAM Rightwing Alt Media', 'https://gab.com/groups/174','Gab Groups'],
 rnoagg: ['Real News of America', 'https://gab.com/groups/6984','Gab Groups'],
 rmgg: ['Rock and Metal', 'https://gab.com/groups/262','Gab Groups'],  
+  
+rlg: ['Rural Life', 'https://gab.com/groups/376','Gab Groups'],
+rrlgg: ['Russian Right Libertarians', 'https://gab.com/groups/1048','Gab Groups'],
+scigg: ['Science', 'https://gab.com/groups/390','Gab Groups'],
+stengg: ['Science Technology Engineering Nature', 'https://gab.com/groups/681','Gab Groups'],
+
+smgg: ['Smoked Meats', 'https://gab.com/groups/75','Gab Groups'],
+ssfwkgg: ['Sooper Seekrit FlammenWurfer Klub', 'https://gab.com/groups/3937','Gab Groups'],
+stwgg: ['Stocks to Watch', 'https://gab.com/groups/10635','Gab Groups'],
+stsgg: ['Stop the Steal', 'https://gab.com/groups/5364','Gab Groups'],
+swausgg: ['Support White Africans Under Seige', 'https://gab.com/groups/1576','Gab Groups'],
+
+sbtbgg: ['Survival Beyond the Basics', 'https://gab.com/groups/783','Gab Groups'],
+tagg: ['The Anglosphere', 'https://gab.com/groups/380','Gab Groups'],
+eucwgg: ['The ComingEEEE, ARRIVED, European Civil War(s)', 'https://gab.com/groups/187','Gab Groups'],
+  
 
 
 gg: ['Gab Groups Timeline', 'https://gab.com/groups','Gab Groups']
