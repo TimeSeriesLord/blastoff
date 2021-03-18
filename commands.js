@@ -536,7 +536,7 @@ tppgg: ['The Patriot Party', 'https://gab.com/groups/5846','Gab Groups'],
 tktgg: ['The Skeptic Tank', 'https://gab.com/groups/5194','Gab Groups'],
 ttsgg: ['Tool Talk Saturday', 'https://gab.com/groups/2287','Gab Groups'],
 tlgg: ['Traditional Lifestyle', 'https://gab.com/groups/163','Gab Groups'],
-tlwgg: ['Travel the World', 'https://gab.com/groups/5788s','Gab Groups'],
+ttwgg: ['Travel the World', 'https://gab.com/groups/5788s','Gab Groups'],
 t2020gg: ['Trump 2020', 'https://gab.com/groups/981','Gab Groups'],
 wsbgg: ['Wall Street Bets', 'https://gab.com/groups/4204','Gab Groups'],
   
