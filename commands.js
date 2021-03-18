@@ -488,6 +488,32 @@ ltgg: ['Leftist Tears', 'https://gab.com/groups/796','Gab Groups'],
 loggg: ['Libertarians of Gab', 'https://gab.com/groups/40','Gab Groups'],
 lusrsgg: ['Linux Users of Gab', 'https://gab.com/groups/1501','Gab Groups'],
 mwtfgg: ['Major WTF', 'https://gab.com/groups/5760','Gab Groups'],
+  
+mmgg: ['Masked Morons', 'https://gab.com/groups/5958','Gab Groups'],
+mwgg: ['Meme Warfare', 'https://gab.com/groups/30','Gab Groups'],
+memesgg: ['Memes, Memes and More Memes', 'https://gab.com/groups/511','Gab Groups'],
+memiacsgg: ['Memiacs', 'https://gab.com/groups/3897','Gab Groups'],
+mhgg: ['Military History', 'https://gab.com/groups/4772','Gab Groups'],
+
+mcgg: ['Motorcycles', 'https://gab.com/groups/3460','Gab Groups'],
+mwgutgg: ['Music We Grew Up To', 'https://gab.com/groups/2044','Gab Groups'],
+nrhmgg: ['Natural Remedies and Herbal Medicine', 'https://gab.com/groups/863','Gab Groups'],
+naturegg: ['Nature and the Natural World', 'https://gab.com/groups/343','Gab Groups'],
+news1gg: ['News the Original', 'https://gab.com/groups/537','Gab Groups'],
+
+news2gg: ['"Breaking" News', 'https://gab.com/groups/692','Gab Groups'],
+nostgg: ['Nostalgia', 'https://gab.com/groups/3476','Gab Groups'],  
+  
+pfpgg: ['Photography for Photographers', 'https://gab.com/groups/515','Gab Groups'],
+plwgg: ['Poetry Lyrics Writing', 'https://gab.com/groups/910','Gab Groups'],
+polgg: ['Politics', 'https://gab.com/groups/538','Gab Groups'],
+pcpgg: ['Practical Chistian Perspective', 'https://gab.com/groups/5757','Gab Groups'],
+phgg: ['Preppers Homesteaders', 'https://gab.com/groups/35','Gab Groups'],
+
+pcegg: ['Programming Computers Electronics', 'https://gab.com/groups/664','Gab Groups'],
+ramgg: ['RAM Rightwing Alt Media', 'https://gab.com/groups/174','Gab Groups'],
+rnoagg: ['Real News of America', 'https://gab.com/groups/6984','Gab Groups'],
+rmgg: ['Rock and Metal', 'https://gab.com/groups/262','Gab Groups'],  
 
 
 gg: ['Gab Groups Timeline', 'https://gab.com/groups','Gab Groups']
