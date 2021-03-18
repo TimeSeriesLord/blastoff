@@ -474,8 +474,20 @@ hccpdtgg: ['Hardcore COnservative Patriots for Donald Trump', 'https://gab.com/g
 healthgg: ['', 'https://gab.com/groups/39','Gab Groups'],
 hbgg: ['History Buffs', 'https://gab.com/groups/625','Gab Groups'],
 
+hsogpgg: ['Homesteading and Off Grid Patriots', 'https://gab.com/groups/5799','Gab Groups'],
+hwgg: ['Hot Women', 'https://gab.com/groups/974','Gab Groups'],
+hfgg: ['Hunting and Fishing', 'https://gab.com/groups/977','Gab Groups'],
+icgg: ['Internt Censorship', 'https://gab.com/groups/652','Gab Groups'],
+jtgfnrgg: ['Join This Group for No Reason', 'https://gab.com/groups/823','Gab Groups'],
+khgg: ['Kraken Hunting', 'https://gab.com/groups/5774','Gab Groups'],
 
-
+laughgg: ['Laughter is the Best Medicine', 'https://gab.com/groups/2330','Gab Groups'],
+lhmgg: ['Le Happy Merchants', 'https://gab.com/groups/1793','Gab Groups'],
+ltcgg: ['Learn to Code', 'https://gab.com/groups/1974','Gab Groups'],
+ltgg: ['Leftist Tears', 'https://gab.com/groups/796','Gab Groups'],
+loggg: ['Libertarians of Gab', 'https://gab.com/groups/40','Gab Groups'],
+lusrsgg: ['Linux Users of Gab', 'https://gab.com/groups/1501','Gab Groups'],
+mwtfgg: ['Major WTF', 'https://gab.com/groups/5760','Gab Groups'],
 
 
 gg: ['Gab Groups Timeline', 'https://gab.com/groups','Gab Groups']
