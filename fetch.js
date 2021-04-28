@@ -18,7 +18,9 @@ function random_item(items) {
 	return items[Math.floor(Math.random()*items.length)];
 }
 
-var items = ["d", "gb", "mg", "mj", "q", "sp", "yp"];
+// 28-APr-2021 - taken over "yp" and "mj"
+
+var items = ["d", "gb", "mg", "q", "sp"];
 
 // var DefaultCommand = 'd';
 var DefaultCommand = random_item(items);
