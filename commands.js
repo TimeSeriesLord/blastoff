@@ -65,7 +65,9 @@ vy: ['Yandex video', 'https://yandex.com/video/search?text=%s','video'],
 vyp: ['⧌ Yippy video', 'https://yippy.com/ysa/cgi-bin/query-meta?v%3Asources=yippy-video&v%3Aproject=yippy-com-images&query=%s','video'],
 
 
+// ---[ Crypto
 
+  qcd: ['Coindesk quote', 'https://www.coindesk.com/price/%s/', 'crypto'],
 
 
 // ---[ SEARCH ENGINE BANGS
