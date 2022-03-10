@@ -17,6 +17,8 @@ sp: ['Startpage', 'https://www.startpage.com/do/dsearch?query=%s', 'all'],
 sx: ['⧌ Searx', 'https://searx.bar/search?q=%s', 'all'],
 y: ['Yandex', 'https://yandex.com/search/?text=%s', 'all'],
 yp: ['⧌ Yippy', 'https://yippy.com/search?query=%s', 'all'],
+pre: ['Presearch', 'https://engine.presearch.org/search?q=%s', 'all'],
+bv: ['Brave', 'https://search.brave.com/search?q=%s', 'all'],  
 
 // ---[ GIFs
 
@@ -34,7 +36,8 @@ isc: ['⧌ Swisscows images', 'https://swisscows.com/image?query=%s&region=en-US
 isx: ['⧌ Searx images', 'https://searx.bar?categories=images&q=%s', 'images'],
 iy: ['⧌ Yandex images', 'https://yandex.com/images/search?text=%s', 'images'],
 iyp: ['⧌ Yippy images', 'https://yippy.com/ysa/cgi-bin/query-meta?v%3aproject=yippy-com-images&v%3asources=yippy-images&query=%s', 'images'],
-
+ipre: ['Pre Images', 'https://engine.presearch.org/images?q=%s', 'images'],
+ibv: ['Brave Images', 'https://search.brave.com/images?q=%s', 'images'],
 
 // ---[ MAPS
 
@@ -54,7 +57,7 @@ nq: ['⧌ news Qwant news', 'https://www.qwant.com/?t=news&q=%s','news'],
 nsx: ['⧌ news Searx news', 'https://searx.bar/?categories=news&language=en-US&q=%s','news'],
 ny: ['Yandex news', 'https://yandex.com/news/search?text=%s','news'],
 ngab: ['Gab news (hotlink)', 'https://gab.com/news','news'],
-
+npre: ['Presearch news', 'https://engine.presearch.org/news?q=%s', 'news'],
 
 // ---[ VIDEO
 viddp: ['Dogpile video', 'http://results.dogpile.com/search/video?q=%s','video'],
@@ -63,7 +66,7 @@ vsc: ['⧌  Swisscows video', 'https://swisscows.com/video?query=%s&region=en-US
 vsx: ['⧌  Searx.bar video', 'https://searx.bar/?categories=videos&language=en-US&q=%s','video'],
 vy: ['Yandex video', 'https://yandex.com/video/search?text=%s','video'],
 vyp: ['⧌ Yippy video', 'https://yippy.com/ysa/cgi-bin/query-meta?v%3Asources=yippy-video&v%3Aproject=yippy-com-images&query=%s','video'],
-
+vpre: ['Presearch video', 'https://engine.presearch.org/videos?q=%s', 'video'],
 
 // ---[ Crypto
 
