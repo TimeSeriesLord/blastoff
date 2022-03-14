@@ -120,7 +120,7 @@ bcdb: ['Big Cartoon Database', 'https://duckduckgo.com/?q=!bcdb%20%s','cartoons'
 bevmo: ['BevMo', 'http://shop.bevmo.com/search?w=%s','shop'],
 bestbuy: ['BestBuy', 'https://duckduckgo.com/?q=!bestbuy%20%s','shop'],
 bhpv: ['BH Photo Video', 'https://duckduckgo.com/?q=!bh%20%s','shop'],
-bitchute: ['Bitchute vids', 'https://www.bitchute.com/search?q=%s&sort=date_created+desc','vids'],
+bitchute: ['Bitchute vids', 'https://www.bitchute.com/search/?query=%s&kind=video','vids'],
 bittube: ['Bittube vids', 'https://bit.tube/results?term=%s&cat=0&for=%s','vids'],
 bnbooks: ['Barnes & Noble', 'https://duckduckgo.com/?q=!barnesandnoble%20%s','shop'],
 bpstate: ['Best Places state (enter state abb)', 'https://www.bestplaces.net/find/state.aspx?state=%s','relo'],
