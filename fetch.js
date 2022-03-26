@@ -20,7 +20,7 @@ function random_item(items) {
 
 // 28-APr-2021 - taken over "yp" and "mj"
 
-var items = ["gb", "mg", "q", "luk", "mj", "sc", "pre", "bv"];
+var items = ["gb", "mg", "q", "luk",  "sc", "pre", "bv"];
 
 // var DefaultCommand = 'd';
 var DefaultCommand = random_item(items);
