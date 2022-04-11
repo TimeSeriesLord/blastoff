@@ -68,10 +68,12 @@ vy: ['Yandex video', 'https://yandex.com/video/search?text=%s','video'],
 vyp: ['⧌ Yippy video', 'https://yippy.com/ysa/cgi-bin/query-meta?v%3Asources=yippy-video&v%3Aproject=yippy-com-images&query=%s','video'],
 vpre: ['Presearch video', 'https://engine.presearch.org/videos?q=%s', 'video'],
 
-// ---[ Crypto
+// ---[ Financial
 
-  qcd: ['Coindesk quote', 'https://www.coindesk.com/price/%s/', 'crypto'],
-
+qcd: ['Coindesk quote', 'https://www.coindesk.com/price/%s/', 'crypto'],
+qhy: ['Yahoo historical finance quote', 'https://finance.yahoo.com/quote/%s/history?p=%s', 'finance'],
+qy:  ['Yahoo finance quote', 'https://finance.yahoo.com/quote/%s?p=%s', 'finance'],
+qg: ['Google finance quote', 'https://www.google.com/finance/quote/%s?window=MAX', 'finance'],
 
 // ---[ SEARCH ENGINE BANGS
 bd: ['DDG bangs (omit the !)', 'https://duckduckgo.com/?q=!%s','bangs'],
