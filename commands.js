@@ -163,6 +163,7 @@ foxbiz: ['Fox Business', 'http://www.foxbusiness.com/search.html?q=%s','news'],
 frink: ['Frink (from;to)', 'https://futureboy.us/fsp/frink.fsp?fromVal=%s&toVal=%s','math'],
 
 fse: ['Free Speech Extreme', 'https://freespeechextremist.com/search?query=%s','socmed'],
+flatpak: ['Flatpak', 'https://flathub.org/apps/search/%s', 'software'],  
 
 // ---[ G
 
